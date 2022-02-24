@@ -53,3 +53,29 @@ how is everything? |
 how's life? |
 long time no see! |
 
+
+17.Practice: jobs and personality
+
+Practice: jobs and personality | a
+------------- | -------------
+Review the verb to be forms and the characteristics of personality.|
+1 He es angry |
+2 They are funny |
+3 You are serious |
+4 I am happy |
+5 She is intelligent |
+
+1 She is a nurse |
+2 He is a dancer |
+3 She is an athlete |
+4 She is a developer |
+5 I am an architect |
+
+Complete the sentences about jobs using a or an. |
+
+1.- She is a nourse |
+2.- He is a dancer |
+3.- She is an athlete |
+4.- She is a developer  |            
+5.- I am an architect |   
+
