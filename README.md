@@ -43,7 +43,7 @@ how do you do?
 it is a pleasure to meet you |
 nice to meet you |
 
- | 
+formal and informal greetings  | 
 ------------- | -------------
 How are ya? |
 what's new? | |
