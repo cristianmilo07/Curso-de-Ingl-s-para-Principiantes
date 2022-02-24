@@ -70,7 +70,6 @@ Review the verb to be forms and the characteristics of personality.|
 3 She is an athlete |
 4 She is a developer |
 5 I am an architect |
-
 Complete the sentences about jobs using a or an. |
 She is a nourse |
 He is a dancer |
