@@ -1,4 +1,8 @@
 # Curso-de-Ingl-s-para-Principiantes
+First Header  | Second Header
+------------- | -------------
+dont walk away from me  | No se aleje de mi
+would you do the honors | Haces los honores
 
 9. What time is it?  | Que hora es
 ------------- | -------------
