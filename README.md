@@ -1,10 +1,10 @@
 # Curso-de-Ingl-s-para-Principiantes
-9. What time is it?  | Que hora es
+What time is it?  | Que hora es
 ------------- | -------------
 dont walk away from me  | No se aleje de mi
 would you do the honors | Haces los honores
 
-9. What time is it?  | Que hora es
+What time is it?  | Que hora es
 ------------- | -------------
 It’s 9:14 P.M. (You can also say "it’s 09:14 at night) |
 It’s 7:30 P.M. (You can also say "it’s seven thirty at night) |
