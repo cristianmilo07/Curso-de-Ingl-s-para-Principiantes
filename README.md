@@ -72,10 +72,9 @@ Review the verb to be forms and the characteristics of personality.|
 5 I am an architect |
 
 Complete the sentences about jobs using a or an. |
-
-1.- She is a nourse |
-2.- He is a dancer |
-3.- She is an athlete |
-4.- She is a developer  |            
-5.- I am an architect |   
+She is a nourse |
+He is a dancer |
+She is an athlete |
+She is a developer  |            
+I am an architect |   
 
