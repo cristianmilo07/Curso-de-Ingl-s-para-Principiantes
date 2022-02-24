@@ -24,7 +24,7 @@ I go to the gym on Thursday at night.|
 I go to the restaurant on friday in the evening|
 I go to the park on sunday in the afternoon|
 
-What time is it?  | Que hora es
+formal and informal greetings | a
 ------------- | -------------
 Formal Greetings | Informal greetings
 Hello mary! | Hi!
@@ -42,7 +42,8 @@ how do you do?
 it is a pleasure to meet you |
 nice to meet you |
 
-formal and informal greetings  | 
+
+formal and informal greetings  | a
 ------------- | -------------
 How are ya? |
 what's new? | |
