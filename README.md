@@ -1,8 +1,5 @@
 # Curso-de-Ingl-s-para-Principiantes
-What time is it?  | Que hora es
-------------- | -------------
-dont walk away from me  | No se aleje de mi
-would you do the honors | Haces los honores
+9. What time is it?
 
 What time is it?  | Que hora es
 ------------- | -------------
@@ -28,6 +25,8 @@ I go to the restaurant on friday in the evening|
 I go to the park on sunday in the afternoon|
 
 13. Formal and informal greetings
+
+Formal and informal greetings
 ------------- | -------------
 Formal Greetings | Informal greetings
 Hello mary! | Hi!
