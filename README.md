@@ -25,8 +25,7 @@ I go to the restaurant on friday in the evening|
 I go to the park on sunday in the afternoon|
 
 
-
-
+First Header  | Second Header
 ------------- | -------------
 Formal Greetings | Informal greetings
 Hello mary! | Hi!
