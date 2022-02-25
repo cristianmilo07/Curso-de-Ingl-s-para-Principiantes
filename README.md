@@ -158,12 +158,12 @@ i seldom drink wine | seldom (10%)
 i rarely do yoga | rarely (5 %)
 i never play volleyball | (0%)
 
-I never eat cereal for breakfast
-I always go to the park on Sunday
-Our father occasionally cooks dinner
-She often drinks tea
-My mother is seldom angry
-They sometimes watch tv in the afternoon
-The baby rarely cries
-I usually go to work at 7 o’clock
+I never eat cereal for breakfast|
+I always go to the park on Sunday|
+Our father occasionally cooks dinner|
+She often drinks tea|
+My mother is seldom angry|
+They sometimes watch tv in the afternoon|
+The baby rarely cries|
+I usually go to work at 7 o’clock|
 Mentoring Session: How to improve your English|
