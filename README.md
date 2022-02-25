@@ -157,7 +157,6 @@ i Occasionally eat cake | occasionally (30%)
 i seldom drink wine | seldom (10%)
 i rarely do yoga | rarely (5 %)
 i never play volleyball | (0%)
-
 I never eat cereal for breakfast|
 I always go to the park on Sunday|
 Our father occasionally cooks dinner|
